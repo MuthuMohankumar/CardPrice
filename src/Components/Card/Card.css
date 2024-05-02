@@ -1,0 +1,11 @@
+.row{
+    background-color: #31ABFE;
+    
+
+}
+.col{
+    margin: 50px !important;
+    border-radius: 20%;
+    height: 700px;
+    
+}
